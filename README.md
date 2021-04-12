@@ -30,8 +30,8 @@ package main
 import (
 	"log"
 
-	ui "github.com/gizak/termui/v3"
-	"github.com/gizak/termui/v3/widgets"
+	ui "github.com/johnjones4/termui/v3"
+	"github.com/johnjones4/termui/v3/widgets"
 )
 
 func main() {
