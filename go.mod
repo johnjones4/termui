@@ -1,6 +1,6 @@
 module github.com/johnjones4/termui/v3
 
-go 1.15
+go 1.16
 
 require (
 	github.com/mattn/go-runewidth v0.0.2
