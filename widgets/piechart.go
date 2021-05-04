@@ -4,7 +4,7 @@ import (
 	"image"
 	"math"
 
-	. "github.com/johnjones4/termui/v3"
+	. "github.com/johnjones4/termui"
 )
 
 const (

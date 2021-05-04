@@ -10,8 +10,8 @@ import (
 	"log"
 	"math"
 
-	ui "github.com/johnjones4/termui/v3"
-	"github.com/johnjones4/termui/v3/widgets"
+	ui "github.com/johnjones4/termui"
+	"github.com/johnjones4/termui/widgets"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/johnjones4/termui/v3
+module github.com/johnjones4/termui
 
 go 1.16
 
